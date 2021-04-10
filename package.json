@@ -1,0 +1,14 @@
+{
+  "name": "env-parse",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "json": "node index.js json",
+    "env": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
